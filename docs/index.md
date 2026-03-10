@@ -24,7 +24,6 @@
 
 ### ლექცია 2 — საბაზისო ბრძანებები და გამოთვლები MATLAB-ში ფუნქციები და ციკლები.
 
-- 📄 [სქრინი](files/num2.pdf)   
 - 📝 დავალება: წიგნიდან წაიკითხეთ თავები 2 და 3. ამოხსენით [ამოცანები][დავალება]([files/hw2.pdf](https://drive.google.com/file/d/1HDCI86xZSdvGN8-fHk4lw3qQvzKINIP0/view?usp=drive_link))
 
 ---
