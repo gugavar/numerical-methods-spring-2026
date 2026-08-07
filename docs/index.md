@@ -11,7 +11,7 @@
 
 ## ლექციები
 ---
-### ლექცია 4 — ღია მეთოდები: იტერაციული და ნიუტონის მეთოდები
+### ლექცია 4 5hh5— ღია მეთოდები: იტერაციული და ნიუტონის მეთოდები
 
 * 🖼️ [სქრინი](https://drive.google.com/file/d/1I--0Mz4gheoB0ltHw4I_wYT3QYbeeXDn/view?usp=drive_link)
 * 🧮 ფაილები: [rootfinding_2](https://drive.google.com/file/d/1VFZQO6E7tu7AWM7pBZGG6DbdtQncKOuz/view?usp=drive_link); [newtraph](https://drive.google.com/file/d/1xfkiZ-vu0uM0nzMPn525YNVLgYNxE7y-/view?usp=drive_link); [secant](https://drive.google.com/file/d/1RRvysYxtmgDaTV18z3yPtD0MV9Jh13dU/view?usp=drive_link);
