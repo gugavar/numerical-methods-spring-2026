@@ -25,7 +25,7 @@
 MATLAB Parallel Server 7.0
 
 მონიშნული უნდა იყოს:  
-MATLAB 9.6  
+MATLAB 9.6   
 MATLAB Coder 4.2  
 MATLAB Compiler 7.0.1  
 MATLAB Compiler SDK 6.6.1  
