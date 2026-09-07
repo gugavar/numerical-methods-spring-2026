@@ -2,14 +2,14 @@
 
 ## რესურსები
 
-### წიგნები
+### წიგნები   
 
 - 📚 [1] [Discrete Time Signal Processing — Oppenheim, Schafer et al.](https://drive.google.com/file/d/1yeIwbiqNsb1jNUgmPzb7F-utlokUeGy8/view?usp=share_link)
 - 📚 [2] [Digital Signal Processing Using MATLAB — Ingle, Proakis](https://drive.google.com/file/d/1CR18ZhXdSYPiO26c48t_-f2uNwFIGGSf/view?usp=drive_link)
 - 📚 [3] [Applied Digital Signal Processing — Manolakis, Ingle](https://drive.google.com/file/d/1YYscDNmIH8vevXKjKUHAHAWHPemjs2-e/view?usp=drive_link)
 - 📚 [DSP First](https://drive.google.com/file/d/1F99ZgbkheFOYFPf4_o-iChafVqYm-Tyr/view?usp=sharing)
 
-### ამოხსნები
+### ამოხსნები 1
 
 - ✅ [1] [Discrete Time Signal Processing — ამოხსნები](https://drive.google.com/file/d/1C74Jm6uUUa_pUx7VfVtefjMOFdmmksEB/view?usp=sharing)
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
