@@ -1,6 +1,6 @@
 # რიცხვითი მეთოდები
 
-## რესურსები
+## რესურსები a
 
 - 📘 [Applied Numerical Methods with MATLAB – Chapra](https://drive.google.com/file/d/1otjKOcMXh-oYeTUCk5fCTwpa40JQrOaH/view?usp=drive_link)
 - 📋 [სილაბუსი](https://drive.google.com/file/d/1UlVwUw_qKFy70QX-SROH74QPwGdbekMu/view?usp=drive_link)
