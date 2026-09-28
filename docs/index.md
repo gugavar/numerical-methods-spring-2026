@@ -11,6 +11,12 @@
 
 ## ლექციები
 ---
+### ლექცია 3 — გრაფიკული და შუაკვეთის მეთოდები
+
+- 🖥️ [სქრინი](https://drive.google.com/file/d/1dEUnonA0hyJ7Wmfrl0pjR9fPNCdneO9S/view?usp=drive_link)
+- 🧮 ფაილები: [rootfinding](https://drive.google.com/file/d/1pTp3RU34JcJ6-6ayML2Du8P6kHVlTEKi/view?usp=drive_link); [bisect](https://drive.google.com/file/d/1yIs7z1FJ_bcinr18OedJDBKCoI6AcM7N/view?usp=drive_link); [incsearch](https://drive.google.com/file/d/1rEfJBAeQEAKM5YmpBms5vDYISQhfOWy9/view?usp=drive_link);
+- 📝 დავალება: მე-5 თავის ამოცანები: 5.1, 5.3, 5.4, 5.7 a, b, 5.8, 5.15, 5.20, 5.22;
+
 ### ლექცია 2 — საბაზისო ბრძანებები და გამოთვლები MATLAB-ში, ფუნქციები და ციკლები
 
 - 📝 დავალება: წიგნიდან წაიკითხეთ თავები 2 და 3. ამოხსენით [ამოცანები](https://drive.google.com/file/d/1HDCI86xZSdvGN8-fHk4lw3qQvzKINIP0/view?usp=drive_link).
