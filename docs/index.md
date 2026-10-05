@@ -11,6 +11,13 @@
 
 ## ლექციები
 ---
+
+### ლექცია 4 — ღია მეთოდები: იტერატიული და ნიუტონის მეთოდები
+
+- 🖥️ [სქრინი](https://drive.google.com/file/d/12mtkxAL0ht4sZUBc1keLJMI--UVhAbsO/view?usp=drive_link)
+- 🧮 ფაილები: [rootfinding_2](https://drive.google.com/file/d/1VFZQO6E7tu7AWM7pBZGG6DbdtQncKOuz/view?usp=drive_link); [newtraph](https://drive.google.com/file/d/1xfkiZ-vu0uM0nzMPn525YNVLgYNxE7y-/view?usp=drive_link); [secant](https://drive.google.com/file/d/1RRvysYxtmgDaTV18z3yPtD0MV9Jh13dU/view?usp=drive_link);
+- 📝 დავალება: მე-6 თავის ამოცანები: 6.1, 6.2, 6.3 a, b, c, e, 6.4 a, b, c, 6.5 a, 6.6, 6.7, 6.9;
+
 ### ლექცია 3 — გრაფიკული და შუაკვეთის მეთოდები
 
 - 🖥️ [სქრინი](https://drive.google.com/file/d/1dEUnonA0hyJ7Wmfrl0pjR9fPNCdneO9S/view?usp=drive_link)
