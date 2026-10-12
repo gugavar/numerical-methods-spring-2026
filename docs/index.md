@@ -11,6 +11,14 @@
 
 ## ლექციები
 ---
+### ლექცია 5 — მოდიფიცირებული მეთოდები
+
+- 🖥️ [სქრინი](https://drive.google.com/file/d/1hGxclEXEgllX_emHUxMJKEag3O5jYDkG/view?usp=drive_link)
+- 🧮 ფაილები: [rootfinding_5](https://drive.google.com/file/d/14RBbFw0MKbko9nh2yY2FRDeZ0VuFhQIx/view?usp=drive_link); [brendt_new](https://drive.google.com/file/d/1mjwsG-OqUWR25nrLBPuEqzlPhIc4mzmC/view?usp=drive_link);
+- 📚 [ძველი პირველი შუალედური](https://drive.google.com/file/d/1RTBp15QpHm8-ZWjA_F7PiSRhcQgMP6sU/view?usp=drive_link)
+- 📚 [წინა წლის შუალედური გამოცდა](https://docs.google.com/document/d/1KhRBnJAI_TVpJvO27Wn5CFsTc57bSz9q/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+- 📝 დავალება: წაიკითხეთ მე-6 თავი ბოლომდე. ამოხსენით ამოცანები: 6.18, 6.19, 6.24, 6.28;
+- 💡 სცადეთ ამოცანა 6.30, რომელშიც თქვენით შეეცდებით Brendt-ის (მოდიფიცირებული) მეთოდის დანერგვას.
 
 ### ლექცია 4 — ღია მეთოდები: იტერატიული და ნიუტონის მეთოდები
 
