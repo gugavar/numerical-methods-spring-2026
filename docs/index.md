@@ -11,6 +11,14 @@
 
 ## ლექციები
 ---
+### ლექცია 6 — პოლინომიალური ინტერპოლაცია
+
+- 🖥️ [სქრინი](https://drive.google.com/file/d/1x4eHZJwuNyiofzwn9qu7Zena_iKl3hM7/view?usp=drive_link)
+- 🧮 ფაილები: [Lect_6](https://drive.google.com/file/d/1RKlITz0HJVlNJQ3yD_WYT6An3Zx2TRg0/view?usp=drive_link); [Newtint](https://drive.google.com/file/d/1Q1z8F1XTYVPU8qwl8SfqhEzis9RZdm5l/view?usp=drive_link); [Lagrange](https://drive.google.com/file/d/1sPlaVbEl-1fZEGqDmsyFjpecr1neRhM1/view?usp=drive_link);
+- 📝 დავალება: წაიკითხეთ მე-17 თავი (Polynomial Interpolation), გვერდები 429–441. ამოხსენით ამოცანები: 17.1, 17.2, 17.3, 17.9, 17.17, 17.19;
+- 🧮 სემინარის ფაილები: [სემინარის კოდი](https://drive.google.com/file/d/1ngpU9m3ZVrbtfzR-K9L6hJLsMngs3Afl/view?usp=drive_link); [quadRoot](https://drive.google.com/file/d/1VjTnRzGNPdyfiD7yP3znGn5QGMDt7jme/view?usp=drive_link); [secant](https://drive.google.com/file/d/1pjqCG2ipptkOzwP419hn5LOFbVzLBPCJ/view?usp=drive_link);
+- 📚 კიდევ ორი პირველი შუალედური გამოცდა წინა წლებიდან: [შუალედური1_2](https://docs.google.com/document/d/1JWnbKNp5r1qb_g_pAwr3wIOM04_0rDvH/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [შუალედური1_3](https://docs.google.com/document/d/1-jaox5DmR1WO8p915Cuc-3nof3KI8ciA/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
+
 ### ლექცია 5 — მოდიფიცირებული მეთოდები
 
 - 🖥️ [სქრინი](https://drive.google.com/file/d/1hGxclEXEgllX_emHUxMJKEag3O5jYDkG/view?usp=drive_link)
