@@ -11,6 +11,12 @@
 
 ## ლექციები
 ---
+### ლექცია 7 — სპლაინები
+
+- 🖥️ [სქრინი](https://drive.google.com/file/d/1UTtyOfroSeevZ6uwrlWijVEsMC7Ys3de/view?usp=drive_link)
+- 🧮 ფაილები: [Lect_7](https://drive.google.com/file/d/1pOVW7LozQPvcPfwryI_ggP7c8NKzvc11/view?usp=share_link); [spline1](https://drive.google.com/file/d/1-x0mb49PTmR3EsWeUmLuvfJWuL0UyUqo/view?usp=share_link); [spline2a](https://drive.google.com/file/d/1da-T8pd2Bmmsk1k0RPre7jb7upPaaCww/view?usp=share_link); [spline2b](https://drive.google.com/file/d/1TxF9S6cTPV5FGoukJJ9qM25ZSbzQJ7jW/view?usp=drive_link); [spline3](https://drive.google.com/file/d/11R9FfKq8JOeMklF9mi3BF40ZArz4GyRL/view?usp=share_link);
+- 📝 დავალება: წაიკითხეთ მე-18 თავი (Splines Interpolation), გვერდები 453–473. ამოხსენით ამოცანები: თავი 18 — სპლაინები: 1 a, b; 4 a, b; 3 a; 11; 12 a, b; 7; 8; 9;
+
 ### ლექცია 6 — პოლინომიალური ინტერპოლაცია
 
 - 🖥️ [სქრინი](https://drive.google.com/file/d/1x4eHZJwuNyiofzwn9qu7Zena_iKl3hM7/view?usp=drive_link)
