@@ -11,6 +11,12 @@
 
 ## ლექციები
 ---
+### ლექცია 8 — ინტერპოლაცია უმცირესი კვადრატულის მეთოდით
+
+- 🖥️ [სქრინი](https://drive.google.com/file/d/1qvBgKAU8a9Wjzv2CWrQqpRKKHbUgJEL8/view?usp=drive_link)
+- 🧮 ფაილები: [Lect_8](https://drive.google.com/file/d/1MlU66ZV8Qtknd28ZaEQKQFJHpHKUoERF/view?usp=drive_link); [linregr](https://drive.google.com/file/d/1Q2aydkqkrNbabVGqjkemsR_wavGnEORQ/view?usp=drive_link);
+- 📝 დავალება: წაიკითხეთ თავი 14 — წრფივი რეგრესია და ამოხსენით ამოცანები: 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 17, 24, 27, 30;
+
 ### ლექცია 7 — სპლაინები
 
 - 🖥️ [სქრინი](https://drive.google.com/file/d/1UTtyOfroSeevZ6uwrlWijVEsMC7Ys3de/view?usp=drive_link)
